@@ -1,9 +1,9 @@
-# cloud-devops-daily-learning
+# cloud-AWS-daily-learning
 My daily hands-on practice, assignments, and projects in AWS, Cloud Computing, Linux, and DevOps.
 
 
 
-# Cloud & DevOps Daily Learning Journey 🚀
+# Cloud AWS Daily Learning Journey 🚀
 
 Welcome to my hands-on learning journey in AWS, Cloud Computing, Linux, and DevOps.
 
