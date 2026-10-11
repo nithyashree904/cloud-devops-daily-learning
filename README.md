@@ -1,2 +1,28 @@
 # cloud-devops-daily-learning
 My daily hands-on practice, assignments, and projects in AWS, Cloud Computing, Linux, and DevOps.
+
+
+
+# Cloud & DevOps Daily Learning Journey 🚀
+
+Welcome to my hands-on learning journey in AWS, Cloud Computing, Linux, and DevOps.
+
+## 📅 Day 1 — AWS Server Deployment
+
+### 🛠️ Practical Tasks
+- Launched and managed AWS EC2 instances.
+- Worked with Windows Server and Linux server environments.
+- Used Amazon Linux 2023.
+- Installed and configured Apache HTTP Server.
+- Started and verified the Apache service using Linux commands.
+- Hosted a personal portfolio website on an EC2 instance.
+
+### 📂 Assignment
+https://github.com/nithyashree904/cloud-devops-daily-learning/blob/main/Nithya-assignment%20day1.pdf
+
+## 🎯 Learning Objective
+Build practical skills in AWS infrastructure, Linux administration, and web server deployment.
+
+More daily assignments and projects will be added as I continue learning and practicing.
+
+**Focus:** AWS | Linux | Cloud Computing | DevOps
